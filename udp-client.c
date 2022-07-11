@@ -15,7 +15,7 @@
 #define UDP_CLIENT_PORT	8765
 #define UDP_SERVER_PORT	5678
 #define BUFFER_SIZE 6
-#define THRESHOLD 15
+#define THRESHOLD 75
 
 static struct simple_udp_connection udp_conn;
 
